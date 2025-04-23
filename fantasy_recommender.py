@@ -18,7 +18,7 @@ st.markdown("""
 
 #st.title("Fantasy Book Recommender")
 st.header("Which world is right for you?")
-st.image("https://drive.google.com/file/d/1Z3Oy9cG9V3ivNCamoVYX-BpUId2aTdQf/view?usp=sharing", use_container_width=True)
+st.image("https://drive.google.com/file/d/1Z3Oy9cG9V3ivNCamoVYX-BpUId2aTdQf/view", use_container_width=True)
 
 
 
