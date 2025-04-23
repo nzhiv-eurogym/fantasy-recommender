@@ -1,5 +1,27 @@
 import streamlit as st
 
+st.markdown("""
+    <style>
+        body {
+            background-color: #ece9f7;
+        }
+        .main {
+            background-color: #fff7e6;
+            border-radius: 12px;
+            padding: 2em;
+        }
+        h1, h2, h3 {
+            color: #7d3c98;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
+st.title("Fantasy Book Recommender")
+st.header("Which world is right for you?")
+st.image("https://images.unsplash.com/photo-1464983953574-0892a716854b", use_container_width=True)
+
+
+
 st.title("Which Fantasy World is Right for You?")
 
 st.write("Answer a few questions and get your fantasy book recommendation!")
