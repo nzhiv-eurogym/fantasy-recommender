@@ -18,7 +18,8 @@ st.markdown("""
 
 #st.title("Fantasy Book Recommender")
 st.header("Which world is right for you?")
-st.image("https://github.com/nzhiv-eurogym/fantasy-recommender/blob/main/recomender.png", use_container_width=True)
+#st.image("https://github.com/nzhiv-eurogym/fantasy-recommender/blob/main/recomender.png", use_container_width=True)
+st.image("https://raw.githubusercontent.com/nzhiv-eurogym/fantasy-recommender/main/recomender.png", use_container_width=True)
 
 
 
